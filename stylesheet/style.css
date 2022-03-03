@@ -12,3 +12,13 @@ h1 {
   height: 100px;
   width: 100px;
 }
+.name {
+  margin: 0px;
+  color: blue;
+  font-weight: bold;
+}
+
+.designation {
+  margin: 0px;
+  font-weight: bold;
+}
