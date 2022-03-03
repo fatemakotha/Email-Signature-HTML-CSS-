@@ -23,8 +23,22 @@ h1 {
   font-weight: bold;
 }
 
+}
+.phone {
+  color: blue;
+}
+.mobile {
+  color: red;
+}
+.web {
+  margin: 0px;
+}
+.address {
+  margin: 0px;
+}
+
+
 
 .con-3 {
   background-color: yellow;
   text-align: inherit;
-}
